@@ -1,5 +1,7 @@
 main {
   padding-top: 100px;
+  font-family: Helvetica;
+  font-size: 18px;
 }
 
 main .row {
@@ -10,6 +12,7 @@ main .row {
   height: 200px;
   text-align: center;
   padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .black {
@@ -27,4 +30,7 @@ main .row {
 
 .blue {
   background-color: blue;
+}
+h2 {
+  text-align: center;
 }
